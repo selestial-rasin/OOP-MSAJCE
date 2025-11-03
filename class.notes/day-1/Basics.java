@@ -4,5 +4,6 @@ public class Basics {
       System.out.println("Datatypes")
       int num=30;
     System.out.printf("this is integer %d,num);
+    
   }
 }
