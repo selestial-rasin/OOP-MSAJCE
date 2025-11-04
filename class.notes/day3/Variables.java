@@ -1,4 +1,4 @@
-class Variables {
+class local {
   int a = 10;           
   static int b = 20;      
 
@@ -10,7 +10,7 @@ class Variables {
   }
 }
 
-public class Basics {
+public class Variables {
   public static void main(String[] args) {
     Example obj1 = new Example(); 
     obj1.show();
