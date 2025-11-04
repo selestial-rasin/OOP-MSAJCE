@@ -16,7 +16,7 @@ class Calculator {
   }
 }
 
-public class Basics {
+public class Overloading {
   public static void main(String[] args) {
     Calculator calc = new Calculator();
 
