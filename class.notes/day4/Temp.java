@@ -6,6 +6,6 @@ class Demo {
 
 public class Temp {
   public static void main(String[] args) {
-    new Demo().show();  // temporary object
+    new Demo().show();  
   }
 }
