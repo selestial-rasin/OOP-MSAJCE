@@ -10,7 +10,7 @@ class Dog extends Animal {
   }
 }
 
-public class Basics {
+public class Overriding {
   public static void main(String[] args) {
     Animal a = new Dog();
     a.sound();
